@@ -1,0 +1,41 @@
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csprojResolveAssemblyReference.cache
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddScore.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmStudentScores.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateScore.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateStudentScores.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.Properties.Resources.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csproj.GenerateResource.Cache
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csproj.CoreCompileInputs.cache
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe.config
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.pdb
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddNewStudent.resources
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.exe
+C:\Users\sae32\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.pdb
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe.config
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.pdb
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csprojAssemblyReference.cache
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddNewStudent.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddScore.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmStudentScores.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateScore.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateStudentScores.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.Properties.Resources.resources
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csproj.GenerateResource.cache
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.exe
+C:\Users\Rish\Desktop\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.pdb
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe.config
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.exe
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\bin\Debug\Maintain Student Scores.pdb
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csprojAssemblyReference.cache
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddNewStudent.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmAddScore.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmStudentScores.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateScore.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.frmUpdateStudentScores.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain_Student_Scores.Properties.Resources.resources
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csproj.GenerateResource.cache
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.exe
+C:\Users\rishi\Downloads\Rishva Iyer Mantain Student Scores\Maintain Student Scores\Maintain Student Scores\obj\Debug\Maintain Student Scores.pdb
